@@ -4,5 +4,6 @@ coverage/
 *.tsbuildinfo
 .env
 .env.*
+!.env.example
 .DS_Store
-.api-update-agent-dev.2026-11-04.private-key.pem
+*.pem
